@@ -1,0 +1,30 @@
+#page1{ 
+    background-image: url(Back.png);
+    background-size: 100%;
+    align-self: right;
+    color: black; 
+    text-align: auto; 
+    font-size: 50px; 
+}
+
+#page2{
+    font-size: 25px;
+    align-self: left;
+}
+
+body {
+    background-color: wheat;
+}
+
+button {
+    font-size: 36px; /* adjust the size to your preference */
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block; /* set the display property to inline-block to create a box around the link */
+    padding: 10px; /* add some padding to create space between the link and the box */
+    border: 2px solid; /* add a border to create a box around the link */
+    border-color: black;
+    background-color: inherit;
+    color: whitesmoke;
+    margin-right: auto;
+    margin-top: 10px;
+  }

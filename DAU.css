@@ -1,0 +1,22 @@
+button {
+    font-size: 36px; /* adjust the size to your preference */
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block; /* set the display property to inline-block to create a box around the link */
+    padding: 10px; /* add some padding to create space between the link and the box */
+    border: 2px solid; /* add a border to create a box around the link */
+    border-color: black;
+    background-color: inherit;
+    color: whitesmoke;
+    margin-right: auto;
+    margin-top: 10px;
+  }
+
+  body {
+    background-color: wheat;
+}
+
+#page1{ 
+    color: black; 
+    text-align: center; 
+    font-size: 25px; 
+}
